@@ -1,6 +1,6 @@
 <?php $company = "Scavone Plumbing & Heating";
 $phone = "(508) 756-1318";
-	$address1 = "14 Commerce Rd Ste C ";
+	$address1 = "14 Commerce Road Unit D ";
 	$address2 = "Shrewsbury, MA 01545";
 ?>
 <!DOCTYPE html>
